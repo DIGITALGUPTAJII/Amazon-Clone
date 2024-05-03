@@ -1,4 +1,4 @@
-# AmazonClone
+# MyntraClone
 
 Welcome to AmazonClone, a project aimed at replicating the renowned e-commerce platform Amazon's user interface using HTML and CSS.
 
